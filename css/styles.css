@@ -1,0 +1,159 @@
+/****************************Tag Selectors**************************/
+
+/* div{
+  background-color: #73777B;
+} */
+
+body{
+  /* margin-width: 0; */
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+img{
+}
+
+h1{
+  /* margin-left: 50%; */
+  color: black;
+  font-family: 'Sacramento', serif;
+  font-size: 90px;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2{
+  color: #A084CF;
+  font-family: 'Montserrat', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3{
+  color: #B7657B;
+  font-family: 'Montserrat', serif;
+}
+
+a{
+  color: #B7657B;
+}
+
+p{
+width: 700px;
+line-height: 2;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 5px;
+  border-spacing: 0;
+  border-color: #DFBB9D;
+  width: 3%;
+  margin: 100px auto;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none;
+color: #EAF6F6 }
+
+
+a:active { text-decoration: none; }
+
+
+
+
+/****************************Class Selectors**************************/
+.top-container {
+  background-color: #DFBB9D;
+  padding-top: 100px;
+
+}
+
+.profile {
+  margin-top: 50px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container{
+  padding-top: 50px;
+  padding-bottom: 1px;
+  background-color: #A084CF;
+  /* margin-bottom: 0px; */
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud{
+  position: absolute ;
+  left: 300px;
+  top: 250px;
+}
+
+.skill-row{
+margin: 100px auto 200px auto;
+text-align: left;
+width: 50%;
+}
+
+.swift-img{
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.tp-img{
+  float: right;
+  width: 25%;
+  height: 25%;
+  margin-left: 30px;
+}
+
+.hello-margin{
+  margin: 50px auto 50px auto;
+}
+
+.contact-me{
+  margin-bottom: 80px;
+  /* background-color: #A084CF; */
+}
+
+.btn{
+  font-family: 'Montserrat', serif;
+  background-color: #A084CF;
+  padding: 10px;
+  color: white;
+  border-radius: 12px;
+}
+
+.footer-properties{
+  font-family: 'Montserrat', serif;
+  color: #EAF6F6;
+    margin: 20px auto 30px auto;
+    font-size: 10px;
+}
+
+.footer-link{
+font-family: 'Montserrat', serif;
+color: #7D1E6A;
+margin: auto 20px;
+
+}
+
+/****************************ID Selectors**************************/
